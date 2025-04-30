@@ -1,9 +1,10 @@
 print('hello')
 
-def greet():
+def hello():
     print('Hello World!')
 
 # call the function
-greet()
+hello()
 
 print('Outside function')
+
