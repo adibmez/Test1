@@ -7,4 +7,11 @@ def hello():
 hello()
 
 print('Outside function')
-print('This is a github repo!!')
+print('This is a github repo!')
+
+
+def good_bye():
+    print('Good Bye!')
+
+# call the function
+good_bye()
