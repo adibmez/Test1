@@ -15,3 +15,10 @@ def good_bye():
 
 # call the function
 good_bye()
+
+
+def re_write():
+    print('Enjoy!')
+
+# call the function
+re_write()
