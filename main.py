@@ -22,3 +22,6 @@ def re_write():
 
 # call the function
 re_write()
+
+print('Outside function')
+
